@@ -1,0 +1,2 @@
+# jakill-specs
+private-specs
